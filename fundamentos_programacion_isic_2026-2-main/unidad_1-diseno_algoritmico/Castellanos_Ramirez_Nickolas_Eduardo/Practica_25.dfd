@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+i
+1
+1
+10
+encontrado
+1
+0
+4
+1
+34
+'Ingrese el PID que desea buscar:'
+5
+1
+10
+pidBuscado
+9
+1
+30
+(i <= 10) AND (encontrado = 0)
+4
+1
+41
+'Ingresa el PID leido (Intento ", i, "):'
+5
+1
+8
+pidLeido
+7
+0
+1
+21
+pidLeido = pidBuscado
+13
+6
+2
+10
+encontrado
+1
+1
+18
+posicionEncontrada
+1
+i
+13
+6
+1
+1
+i
+5
+i + 1
+11
+7
+0
+1
+14
+encontrado = 1
+4
+1
+53
+'Proceso no encontrado tras escanear los 10 procesos'
+13
+4
+1
+56
+'Proceso localizado', 'Posicion: ', 'posicionEncontrada'
+13
+1

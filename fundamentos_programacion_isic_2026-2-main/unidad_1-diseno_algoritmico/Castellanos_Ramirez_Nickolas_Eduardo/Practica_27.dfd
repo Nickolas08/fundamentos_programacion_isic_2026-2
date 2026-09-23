@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'Ingrese maxBits (entre 1 y 16 ):'
+5
+1
+7
+maxBits
+7
+0
+1
+12
+maxBits >= 1
+4
+1
+34
+'Error: N debe estar entre 1 y 16'
+13
+7
+0
+1
+13
+maxBits <= 16
+4
+1
+34
+'Error: N debe estar entre 1 y 16'
+13
+6
+1
+1
+i
+1
+0
+9
+1
+12
+i <= maxBits
+6
+1
+11
+direcciones
+5
+2 ^ i
+4
+1
+40
+'Bits: ', i, 'Direcciones:', direcciones
+6
+1
+1
+i
+5
+i + 1
+11
+13
+13
+1

@@ -1,0 +1,12 @@
+TransmisionPaquetes
+1. Definir totalPaquetes, i Como Entero
+    
+1. Escribir "Ingrese el número total de paquetes a transmitir (N):"
+    Leer totalPaquetes
+    
+1. Para i <- 1 Hasta totalPaquetes Con Paso 1 Hacer
+        Escribir "Enviando paquete... Secuencia número: ", i
+    FinPara
+    
+1. Escribir "Transmisión finalizada con éxito."
+FinAlgoritmo
